@@ -26,7 +26,7 @@ Data encrypted via SHA-256 with strict consent protocols.
 
 🌐 Cross-Platform Accessibility
 Responsive Design
-Seamlessly access Salzz Finance via** responsive web and native mobile apps.**
+Seamlessly access Salzz Finance via **responsive web and native mobile apps**.
 
 
 💬 AI-Powered Financial Assistant
