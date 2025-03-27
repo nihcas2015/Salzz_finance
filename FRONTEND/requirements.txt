@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+pandas
+numpy
+streamlit-authenticator
+bcrypt
+pdfplumber
+openpyxl
+google.generativeai
+scikit-learn
+pickle
+joblib
+matplotlib
